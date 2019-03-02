@@ -39,9 +39,18 @@ html body {
     margin-right: 0px;
 }
 
+.bsgold {
+    box-shadow: 3px 3px gold;
+}
+
+.bsgrey {
+    box-shadow: 3px 3px grey;
+}
+
 /* --------------/special*/
 
 /* --------------HEADER*/
+
 header {
     padding: 0px;
     margin: 0px;
@@ -58,6 +67,11 @@ header .headlogo {
 .logo {
     margin-left: 0px;
     margin-right: 0px;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: white;
+    margin-top: 25px;
+    box-shadow: 5px 5px gold;
 }
 
 .logo h1 {
@@ -65,9 +79,13 @@ header .headlogo {
     top: 25px;
     width: 100%;
     height: 100%;
-    border: 1px solid black;
-    border-radius: 50px;
-    background-color: white;
+}
+
+.logo p {
+    color: black;
+    top: 25px;
+    width: 100%;
+    height: 100%;
 }
 
 /* --------------/logo*/
@@ -87,14 +105,28 @@ header .headlogo {
     height: 250px;
     border: 1px solid black;
     padding-top: 50px;
+    box-shadow: 3px 3px gold;
+    margin-bottom: 50px;
 }
 
-.info {
+.advert {
     background-color: white;
     height: 100px;
     border: 1px solid black;
     padding-top: 28px;
     font-size: 40px;
+    box-shadow: 3px 3px gold;
+    margin-bottom: 50px;
+}
+
+.box4,
+.box5 {
+    background-color: white;
+    height: 250px;
+    border: 1px solid black;
+    padding-top: 50px;
+    box-shadow: 3px 3px gold;
+    margin-bottom: 50px;
 }
 
 /* --------------/section*/
