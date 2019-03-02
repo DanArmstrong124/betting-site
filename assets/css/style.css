@@ -107,6 +107,7 @@ header .headlogo {
     padding-top: 50px;
     box-shadow: 3px 3px gold;
     margin-bottom: 50px;
+    border-radius: 15px;
 }
 
 .advert {
@@ -117,6 +118,7 @@ header .headlogo {
     font-size: 40px;
     box-shadow: 3px 3px gold;
     margin-bottom: 50px;
+    border-radius: 15px;
 }
 
 .box4,
@@ -127,6 +129,7 @@ header .headlogo {
     padding-top: 50px;
     box-shadow: 3px 3px gold;
     margin-bottom: 50px;
+    border-radius: 15px;
 }
 
 /* --------------/section*/
